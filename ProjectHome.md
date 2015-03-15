@@ -1,0 +1,1 @@
+Experimental project to create a world where people can develop their own IA players
